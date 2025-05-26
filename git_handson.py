@@ -8,3 +8,6 @@ def mul(a, b):
 
 def square(s):
     return s*s
+
+def divide (x, y):
+    return x/y
