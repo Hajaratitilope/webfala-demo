@@ -5,3 +5,6 @@ print(a)
 
 def mul(a, b):
     return a*b
+
+def square(s):
+    return s*s
